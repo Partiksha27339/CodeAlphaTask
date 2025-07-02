@@ -1,4 +1,4 @@
-# CodeAlphaTas
+# CodeAlphaTask
 Task 1 for CodeAlpha Intenship
 Here's a clear summary of your Python code:
 
